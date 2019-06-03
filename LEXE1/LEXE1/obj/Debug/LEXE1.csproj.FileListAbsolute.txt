@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\LEXE1\LEXE1\bin\Debug\LEXE1.exe.config
+C:\Users\Zane\source\repos\LEXE1\LEXE1\bin\Debug\LEXE1.exe
+C:\Users\Zane\source\repos\LEXE1\LEXE1\bin\Debug\LEXE1.pdb
+C:\Users\Zane\source\repos\LEXE1\LEXE1\obj\Debug\LEXE1.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\LEXE1\LEXE1\obj\Debug\LEXE1.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\LEXE1\LEXE1\obj\Debug\LEXE1.exe
+C:\Users\Zane\source\repos\LEXE1\LEXE1\obj\Debug\LEXE1.pdb
